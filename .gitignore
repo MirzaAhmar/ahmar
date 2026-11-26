@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.log
+.env*
+!.env.example
+
+# Local tooling
+.DS_Store
+Thumbs.db
+
+legacy-site/
